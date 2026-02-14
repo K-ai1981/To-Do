@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow - AI & GitHub Integrated Todo",
+  "description": "A powerful task management app featuring two-way GitHub Issue synchronization and Gemini AI-powered task breakdown.",
+  "requestFramePermissions": []
+}
